@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+#main {
+  background-color: gray;
+}
+
+#search{
+  padding: 0 8rem 0 8rem;
+}
+
+#items-main{
+  padding: 0 1rem 0 1rem;
+}
